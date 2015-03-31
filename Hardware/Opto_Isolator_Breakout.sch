@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -8239,7 +8239,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="3.175" y="-1.905" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
 <package name="SO08-2">
-<circle x="-2.4384" y="-1.3716" radius="0.1436" width="0.2032" layer="21"/>
+<circle x="-3.23088125" y="-2.235203125" radius="0.1436" width="0.2032" layer="21"/>
 <wire x1="2.921" y1="-1.9558" x2="2.921" y2="1.9558" width="0.2032" layer="21"/>
 <wire x1="-2.921" y1="1.9558" x2="-2.921" y2="-1.9558" width="0.2032" layer="21"/>
 <wire x1="-2.921" y1="1.9558" x2="-2.54" y2="1.9558" width="0.2032" layer="21"/>
@@ -8589,11 +8589,11 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <wire x1="177.8" y1="134.62" x2="177.8" y2="73.66" width="0.2032" layer="95" style="shortdash"/>
 <wire x1="177.8" y1="73.66" x2="109.22" y2="73.66" width="0.2032" layer="95" style="shortdash"/>
 <wire x1="109.22" y1="73.66" x2="109.22" y2="88.9" width="0.2032" layer="95" style="shortdash"/>
-<text x="93.98" y="68.58" size="1.778" layer="91">ILD213T</text>
-<text x="93.98" y="66.04" size="1.778" layer="91">751-1312-1-ND</text>
+<text x="68.58" y="68.58" size="1.778" layer="97">Optoisolator ILD213T</text>
+<text x="68.58" y="66.04" size="1.778" layer="97">Digikey Part #751-1312-1-ND</text>
 <text x="66.04" y="137.16" size="1.778" layer="95">3V to 5V System</text>
 <text x="157.48" y="137.16" size="1.778" layer="95">Noisy System</text>
-<text x="237.998" y="6.858" size="2.54" layer="94">V01</text>
+<text x="237.998" y="6.858" size="2.54" layer="94">V02</text>
 <text x="148.336" y="6.858" size="2.54" layer="94">Revised by: Patrick Alberts</text>
 <text x="170.434" y="11.176" size="2.54" layer="94">N.Seidle</text>
 <text x="105.156" y="91.44" size="2.032" layer="95" font="vector">Opto</text>
