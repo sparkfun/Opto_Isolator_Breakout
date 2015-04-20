@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -8593,7 +8593,7 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <text x="68.58" y="66.04" size="1.778" layer="97">Digikey Part #751-1312-1-ND</text>
 <text x="66.04" y="137.16" size="1.778" layer="95">3V to 5V System</text>
 <text x="157.48" y="137.16" size="1.778" layer="95">Noisy System</text>
-<text x="237.998" y="6.858" size="2.54" layer="94">V02</text>
+<text x="237.998" y="6.858" size="2.54" layer="94">V10</text>
 <text x="148.336" y="6.858" size="2.54" layer="94">Revised by: Patrick Alberts</text>
 <text x="170.434" y="11.176" size="2.54" layer="94">N.Seidle</text>
 <text x="105.156" y="91.44" size="2.032" layer="95" font="vector">Opto</text>
